@@ -13,3 +13,8 @@
 	url = https://github.com/jdgonzalezwork/rmbc
 	shallow = true
 	registered = true
+[submodule "tetrascatt"]
+	path = tetrascatt
+	url = https://github.com/cran/tetrascatt
+	shallow = true
+	registered = true
