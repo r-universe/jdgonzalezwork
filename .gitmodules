@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ktaucenters"]
 	path = ktaucenters
 	url = https://github.com/jdgonzalezwork/ktaucenters
-	shallow = true
-	registered = true
 [submodule "RMBC"]
 	path = RMBC
 	url = https://github.com/jdgonzalezwork/rmbc
-	shallow = true
-	registered = true
 [submodule "tetrascatt"]
 	path = tetrascatt
 	url = https://github.com/cran/tetrascatt
-	shallow = true
-	registered = true
