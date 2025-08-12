@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RMBC"]
-	path = RMBC
-	url = https://github.com/jdgonzalezwork/rmbc
 [submodule "ktaucenters"]
 	path = ktaucenters
 	url = https://github.com/jdgonzalezwork/ktaucenters
